@@ -54,7 +54,7 @@ sls_price int
 );
 GO
 
-
+-- I forgot about naming conventions and put the same filename(original[CUST_AZ12]) for table in erp bronze layer.
 IF OBJECT_ID ('bronze.erp_CUST_AZ12','U') IS NOT NULL
 	DROP TABLE bronze.erp_CUST_AZ12;
 GO
