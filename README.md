@@ -54,6 +54,4 @@ Tutorial:
 
 https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8
 
-Official resources:
 
-:contentReference[oaicite:1]{index=1}
