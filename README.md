@@ -50,8 +50,5 @@ Through this project I gained practical experience in:
 
 Special thanks to Data With Baraa for creating an excellent hands-on SQL Data Warehouse tutorial that helped me understand real-world Data Engineering concepts and workflows.
 
-Tutorial:
-
-https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8
 
 
