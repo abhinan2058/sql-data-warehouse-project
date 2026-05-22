@@ -19,16 +19,41 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Data Souces**: Focus on the latest dataset only; historization of data is not required.
 - **Data Souces**: Provide clear documentation on the data model to support both business stakeholders and anlytics teams.
 
+<img width="795" height="496" alt="data_architecture drawio" src="https://github.com/user-attachments/assets/940bce1e-82c7-4698-9b12-6bd9e2381279" />
+
+## 🎯 Skills Demonstrated
+
+- SQL Development
+- Data Warehousing
+- ETL Pipeline Design
+- Data Cleaning
+- Data Modeling
+- Medallion Architecture
+- Dimensional Modeling
+- SQL Server
+
 ---
 
-### BI: Analytics & Reporting (Data Analytics)
+## 🔍 Key Learnings
 
-### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- ** Product Performance**
-- **Sales Trends**
+Through this project I gained practical experience in:
 
-These insights empower stakeholders with key business metrices, enabling strategic decision-making.
+- Building an end-to-end Data Warehouse
+- Designing layered data architecture
+- Working with real-world datasets
+- Creating ETL pipelines
+- Implementing data transformation logic
+- Building analytics-ready data models
 
 ---
+## 🙏 Acknowledgment
+
+Special thanks to Data With Baraa for creating an excellent hands-on SQL Data Warehouse tutorial that helped me understand real-world Data Engineering concepts and workflows.
+
+Tutorial:
+
+https://www.youtube.com/watch?v=9GVqKuTVANE&list=PLNcg_FV9n7qaUWeyUkPfiVtMbKlrfMqA8
+
+Official resources:
+
+:contentReference[oaicite:1]{index=1}
